@@ -1,0 +1,89 @@
+body{
+	background-color:#FAFAFA;
+}
+.container{
+	 display: flex;
+	 justify-content: center;
+	 text-align: center;
+	 margin-top: 4%;
+	 border: rgb(219,219,219) 3px;	
+}
+.container a{
+	text-decoration: none;
+
+}
+.title{
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Inspiration', cursive;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Satisfy', cursive;
+	font-size: 45px;
+}
+button{
+	padding: 2%;
+	width: 77%;
+	height: 40%;
+	border-radius:4px;
+	border: rgb(0, 87, 217) 1px;
+	background-color: #87ceeb;
+	color: white;
+	
+}
+.box{
+	padding:1%;
+	border: rgba(0, 0, 0, 0.1) solid 1px;
+	background-color: white;
+	width: 87%;
+}
+.above{	
+	padding:%;
+}
+.password{
+	border:;
+}
+.container input{
+	padding-top:2%;
+	padding:3%;
+	width: 69%;
+	border-radius:1px;
+	border-color:rgb(0, 0, 0, 0.1) ;
+	background-color:#FAFAFA;
+	font-size: 12px;
+	
+}
+.signup{
+	border:rgba(0, 0, 0, 0.1) 1px solid;
+	background-color: white;
+	padding:2% ;
+	margin-top: 2%;
+	width: 85%;
+}
+.main{
+	margin-left: 2%;
+
+}
+.loginfb{
+	font-family:sans-serif;
+	word-spacing: 2px;
+}
+.forgot{
+	color:#00376b;
+	font-size: 12px;
+	font-family: sans-serif;
+}
+
+.final{
+	text-decoration: none;
+	color: grey;
+	margin-top: 4%;
+	text-align: center;
+	word-spacing: 15px;
+	font-size: 14px;
+	justify-content: center;
+}
+div{
+	text-align: center;
+}
+span{
+ font: inherit;
+}
